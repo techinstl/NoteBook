@@ -12,7 +12,7 @@
   - [🥼 前端学习](README?id=🥼-前端学习)
   - [🔨 工具 COOL](README?id=🔨-工具-cool)
   - [🎅 赞赏作者](README?id=🎅-赞赏作者)
-- <span class="iconfont icon-tianxie"></span> 拓展
+- <span class="iconfont icon-tianxie"></span> Extend
   - [<span class="iconfont icon-csdn"></span> CSDN](https://blog.csdn.net/wugenqiang)
   - [<span class="iconfont icon-github"></span> 博客主页](https://wugenqiang.github.io)
   - [<span class="iconfont icon-github"></span> 论文笔记](https://wugenqiang.github.io/PaperSummary/)
