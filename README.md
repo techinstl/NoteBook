@@ -8,7 +8,8 @@
 
 # Deep Learning
 ## Tensorflow
-
+* **Loss functions**
+  * [1 - difference between categorical_crossentropy and sparse_categorical cross entropy](Tensorflow/categorical_crossentropy.md)
 
 # 🍵 编程语言
 
