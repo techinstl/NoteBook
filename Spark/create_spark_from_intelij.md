@@ -47,7 +47,7 @@ Optimize imports on the fly**
 
     </dependencies>
 	
-###Code Examples
+### Code Examples
 
     package com.fang.spark.examples
     
@@ -63,9 +63,14 @@ Optimize imports on the fly**
     }
 
 ### Exceptions and Solutions
-**Problem: **
+**Problem:**
+
 Exception in thread "main" java.lang.IllegalArgumentException: System memory 259522560 must be at least 471859200. Please increase heap size using the --driver-memory option or spark.driver.memory in Spark configuration.
+
 **Solution:**
+
 Add -Xmx512m in VM options.
+
+
 
 
